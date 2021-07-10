@@ -60,7 +60,7 @@ class _OnboardingState extends State<Onboarding> {
           Container(
             width: MediaQuery.of(context).size.width * 0.6,
             child: Text(
-              "E-Learn",
+              "Learning Gateway",
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontFamily: 'Red Hat Display',

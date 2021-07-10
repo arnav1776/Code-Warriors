@@ -26,12 +26,13 @@ class OverlayWidget extends StatelessWidget {
   }
 
   final List names = [
-    'Revision - DBMS',
+  
+    'Apply for internship',
     'Entity Relationship Model',
     'Revision - DCCN',
     'OSI Model'
   ];
-  final List times = ['5pm-6pm', '6pm-7pm', '7pm-8pm', '8pm-9pm'];
+  final List times = ['12th July', '6pm-7pm', '7pm-8pm', '8pm-9pm'];
   final List colors = [
     Color(0xFFFF0000),
     Color(0xFF0000FF),
