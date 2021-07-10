@@ -92,6 +92,7 @@ class GoogleAuth {
     print("User Sign Out");
   }
 
+  // ignore: missing_return
   Future<bool> isSignedIn() async {
     await googleSignIn.isSignedIn().then((value) {
       print(value);

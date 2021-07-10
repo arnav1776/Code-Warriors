@@ -4,6 +4,7 @@ import 'package:learning_gateway/ui/widgets/topBar.dart';
 import 'package:learning_gateway/ui/widgets/videoCard.dart';
 import 'package:flutter/cupertino.dart';
 
+// ignore: must_be_immutable
 class VideosPage extends StatelessWidget {
   VideosPage({
     Key key,

@@ -1,8 +1,8 @@
-import 'package:learning_gateway/ui/pages/onboarding1.dart';
-import 'package:learning_gateway/ui/pages/undefinedScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:learning_gateway/ui/pages/onboarding1.dart';
+import 'package:learning_gateway/ui/pages/undefinedScreen.dart';
 import 'package:learning_gateway/global/globals.dart' as globals;
 import 'package:learning_gateway/routes/router.dart' as router;
 import 'package:shared_preferences/shared_preferences.dart';
@@ -15,9 +15,11 @@ void main() {
         .then((value) => runApp(
               RestartWidget(
                 child: MyApp(),
-              ),
-            ));
-  });
+            ),
+        )
+      );
+    }
+  );
 }
 
 class MyApp extends StatefulWidget {

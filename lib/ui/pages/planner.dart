@@ -7,6 +7,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_calendar_carousel/flutter_calendar_carousel.dart';
 import 'package:flutter/material.dart' as material;
 
+// ignore: must_be_immutable
 class PlannerPage extends StatelessWidget {
   PlannerPage({
     Key key,

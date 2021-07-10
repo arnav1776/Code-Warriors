@@ -133,6 +133,7 @@ class _HomeState extends State<Home> {
   }
 }
 
+// ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   final onMenuTap;
   HomePage({
