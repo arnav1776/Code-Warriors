@@ -15,11 +15,9 @@ void main() {
         .then((value) => runApp(
               RestartWidget(
                 child: MyApp(),
-            ),
-        )
-      );
-    }
-  );
+              ),
+            ));
+  });
 }
 
 class MyApp extends StatefulWidget {
