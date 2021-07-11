@@ -58,7 +58,7 @@ More details about these can be found in the [`pubspec.yaml`](https://github.com
   
 ## Installation
 
-- clone the repository on your system.
-- install the dependencies
-- run flutter pub get
-- run the application
+- Clone the repository on your system.
+- Install the dependencies
+- Run flutter pub get
+- Run the application
