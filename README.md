@@ -1,6 +1,6 @@
 # <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> learning_gateway
 
-A new Flutter project.
+Flutter application for online learning
 
 ## Getting Started
 
@@ -18,7 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## E-Learning
 
-It is built with Dart on top of Google's Flutter Framework.
+- It is built with Dart on top of Google's Flutter Framework.
+- The aim of the application is to promote online self learning through tasks and online study groups which can help in creating a heathy evnironment abd help in boosting the morale of students.
+
 
 ![image](https://user-images.githubusercontent.com/84665079/125184552-57917e00-e23c-11eb-936d-268fb70ce582.png)
 
@@ -27,6 +29,7 @@ It is built with Dart on top of Google's Flutter Framework.
 
 1. [Demo](#demo)
 2. [Dependencies](#dependencies)
+3. [Installation](#installation)
 
 ## Demo
 
@@ -53,3 +56,9 @@ The following packages are needed for the development of this application.
 
 More details about these can be found in the [`pubspec.yaml`](https://github.com/Hash-Studios/e-learning-app/tree/master/pubspec.yaml) file.
   
+## Installation
+
+- clone the repository on your system.
+- install the dependencies
+- run flutter pub get
+- run the application
