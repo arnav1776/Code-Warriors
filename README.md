@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## E-Learning
 
 - It is built with Dart on top of Google's Flutter Framework.
-- The aim of the application is to promote online self learning through tasks and online study groups which can help in creating a heathy evnironment abd help in boosting the morale of students.
+- The aim of the application is to promote online self learning through tasks and online study groups which can help in creating a healthy environment and help in boosting the morale of students.
 
 
 ![image](https://user-images.githubusercontent.com/84665079/125184552-57917e00-e23c-11eb-936d-268fb70ce582.png)
