@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## E-Learning
+## E-Learning App
 
 - It is built with Dart on top of Google's Flutter Framework.
 - The aim of the application is to promote online self learning through tasks and online study groups which can help in creating a healthy environment and help in boosting the morale of students.
